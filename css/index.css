@@ -1,0 +1,24 @@
+.cabecera
+{
+    background-color: antiquewhite;
+    font-size: 26px;
+    font-family: fantasy;
+    padding: 20px;
+    margin-bottom: 19px;
+    border-radius: 18px;
+    color: blue;
+}
+
+.contenedor
+{
+    background-color: antiquewhite;
+    font-size: 18px;
+    font-family: fantasy;
+    border-radius: 10px;
+}
+
+.encabezado-contacto
+{
+    font-weight: bold;
+}
+
